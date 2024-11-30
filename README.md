@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN STACK Developer from India, with insights in DSA and Machine Learning !.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning NextJS<br><br>👨‍💻 Ask me about react, dsa<br><br>📫 How to reach me akp211260@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1u5DSbRoWbrDqHiWDaHKgvkt5M8SdM4tA/view?usp=sharing<br><br>⚡ Fun fact I love to play chess, volleyball and guitar.
+🌱 I’m currently learning NextJS<br><br>👨‍💻 Ask me about react, dsa<br><br>📫 How to reach me akp211260@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1hEmC9o31y3jc6JZ9gwFXPZCFrsAUnOCC/view?usp=drive_link<br><br>⚡ Fun fact I love to play chess, volleyball and guitar.
 
 
 ## 🌐 Socials:
